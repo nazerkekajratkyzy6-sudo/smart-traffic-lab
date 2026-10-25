@@ -1,0 +1,10 @@
+{
+  "name": "SMART TRAFFIC LAB",
+  "short_name": "Traffic Lab",
+  "lang": "kk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f5fa8",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

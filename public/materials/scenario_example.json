@@ -1,0 +1,14 @@
+{
+  "id": "E02",
+  "name": "Салыстырмалы тәжірибе",
+  "seed": 2026,
+  "duration_seconds": 3600,
+  "arrival_rate_vehicles_per_hour": 300,
+  "fixed_green_seconds": 30,
+  "adaptive": {
+    "min_green_seconds": 10,
+    "max_green_seconds": 60,
+    "alpha": 0.1
+  },
+  "data_type": "simulated"
+}

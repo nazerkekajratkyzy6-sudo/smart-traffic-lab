@@ -1,0 +1,4 @@
+DejaVu Sans (subset) — used for Kazakh/Cyrillic text in generated PDF reports.
+DejaVu fonts are based on Bitstream Vera fonts. Bitstream Vera Fonts Copyright (c) 2003 by Bitstream, Inc.
+DejaVu changes are in public domain. License: https://dejavu-fonts.github.io/License.html
+Permission is granted free of charge to use, copy, modify and distribute the Font Software (see full license text at the URL above).

@@ -1,0 +1,53 @@
+{
+  "data_type": "illustrative_from_source",
+  "nodes": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "edges": [
+    {
+      "source": "A",
+      "target": "B",
+      "distance_km": 2,
+      "speed_kmh": 40,
+      "time_min": 3
+    },
+    {
+      "source": "A",
+      "target": "C",
+      "distance_km": 3,
+      "speed_kmh": 30,
+      "time_min": 6
+    },
+    {
+      "source": "B",
+      "target": "D",
+      "distance_km": 4,
+      "speed_kmh": 40,
+      "time_min": 6
+    },
+    {
+      "source": "C",
+      "target": "D",
+      "distance_km": 2,
+      "speed_kmh": 20,
+      "time_min": 6
+    },
+    {
+      "source": "B",
+      "target": "C",
+      "distance_km": 1,
+      "speed_kmh": 20,
+      "time_min": 3
+    },
+    {
+      "source": "A",
+      "target": "D",
+      "distance_km": 5,
+      "speed_kmh": 50,
+      "time_min": 6
+    }
+  ]
+}
